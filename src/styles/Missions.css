@@ -1,0 +1,8 @@
+.missions {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Orbitron , Arial , Helvetica , sans-serif;
+  margin: 0;
+  width: 100%;
+
+}

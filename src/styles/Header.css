@@ -1,9 +1,8 @@
-.headerSolarSystem {
-  background-color: aqua;
-  color: #efe9f4;
+.headerSolarSystem, .headerSolarSystem > h1 {
+  color: #16bac5;
   display: flex;
   font-family: Orbitron , Arial , Helvetica , sans-serif;
+  font-size: 50px;
   justify-content: center;
   margin: auto;
-  width: 300px;
 }
